@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/shumancai90617/my-tool",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
